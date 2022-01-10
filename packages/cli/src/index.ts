@@ -1,4 +1,5 @@
 /**
+ * nanfeiyan
  * localStorage and sessionStorage basic operation
  */
 const ls = localStorage;
